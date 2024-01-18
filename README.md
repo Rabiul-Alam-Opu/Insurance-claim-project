@@ -1,3 +1,1 @@
-I did a project for fraud detection. I received car insurance data from my instructor, cleansed the data, and filled in the null values using Python. 
-I joined 5 different datasets using pandas merge.  
-Finally, I used Random Forest Classifier to predict fraud and achieved an accuracy of 93%. 
+Aim of the project was to detect fraud from insurance claim.It was my final project for my data science course.The dataset was given to me by my instructor.While doing the project I did EDA to make the data usable for doing further analysis.Finally, I used Random Forest Classifier to predict fraud and achieved an accuracy of 93%.
